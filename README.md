@@ -11,7 +11,7 @@ cd ./sharding-repl-cache/
 ```
 docker compose up -d
 ```
-3. Выполнить скрипт инициализации mongodb и наполнении данными
+3. Выполнить скрипт инициализации mongodb и наполнения БД данными
 ```
 ./scripts/mongo-init.sh
 ```
